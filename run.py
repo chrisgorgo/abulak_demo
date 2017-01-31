@@ -1,2 +1,2 @@
 
-print("Mathematics LOLZ!")
+print("Les Maths MDR!")
